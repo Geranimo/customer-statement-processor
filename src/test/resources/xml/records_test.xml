@@ -1,0 +1,9 @@
+<records>
+  <record reference="108366">
+    <accountNumber>NL27SNSB0917829871</accountNumber>
+    <description>Candy from Willem de Vries</description>
+    <startBalance>30.77</startBalance>
+    <mutation>+22.38</mutation>
+    <endBalance>53.15</endBalance>
+  </record>
+</records>

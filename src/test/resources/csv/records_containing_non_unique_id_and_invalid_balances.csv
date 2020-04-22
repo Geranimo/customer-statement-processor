@@ -1,0 +1,5 @@
+Reference,Account Number,Description,Start Balance,Mutation,End Balance
+132843,NL56RABO0149876948,invalid balance and non unique reference id,90.68,-45.33,46.35
+132895,NL32RABO0195610843,invalid balance and unique reference id,80.48,+25.19,102.67
+132843,NL56RABO0149876948,valid balance and non unique reference id,90.68,-45.33,45.35
+

@@ -1,0 +1,23 @@
+<records>
+  <record reference="108366">
+    <accountNumber>NL27SNSB0917829871</accountNumber>
+    <description>record with unique reference id</description>
+    <startBalance>30.77</startBalance>
+    <mutation>+22.38</mutation>
+    <endBalance>53.15</endBalance>
+  </record>
+  <record reference="108366">
+    <accountNumber>NL91RABO0315273637</accountNumber>
+    <description>record with non unique reference id</description>
+    <startBalance>5429</startBalance>
+    <mutation>-939</mutation>
+    <endBalance>4490</endBalance>
+  </record>
+  <record reference="104254">
+    <accountNumber>NL91RABO0315273637</accountNumber>
+    <description>Candy from Daniël Dekker</description>
+    <startBalance>37.04</startBalance>
+    <mutation>-45.75</mutation>
+    <endBalance>-8.71</endBalance>
+  </record>
+</records>

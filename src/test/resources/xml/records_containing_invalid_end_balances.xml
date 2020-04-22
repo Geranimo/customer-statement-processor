@@ -1,0 +1,23 @@
+<records>
+  <record reference="108366">
+    <accountNumber>NL27SNSB0917829871</accountNumber>
+    <description>record with invalid end balance 1</description>
+    <startBalance>100</startBalance>
+    <mutation>-200</mutation>
+    <endBalance>800</endBalance>
+  </record>
+  <record reference="108399">
+    <accountNumber>NL91RABO0315273637</accountNumber>
+    <description>record with invalid end balance 2</description>
+    <startBalance>13.4</startBalance>
+    <mutation>2</mutation>
+    <endBalance>15.6</endBalance>
+  </record>
+  <record reference="109466">
+    <accountNumber>NL27SNSB0917829871</accountNumber>
+    <description>Candy from Willem de Vries</description>
+    <startBalance>30.77</startBalance>
+    <mutation>+22.38</mutation>
+    <endBalance>53.15</endBalance>
+  </record>
+</records>

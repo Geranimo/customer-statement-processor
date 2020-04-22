@@ -1,0 +1,14 @@
+### Maven ###
+target
+
+### OSX ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+customer-statement-processor.iml
+.idea
